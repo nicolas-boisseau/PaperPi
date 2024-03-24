@@ -11,7 +11,7 @@ set -e
 PP_GITREPO="https://github.com/nicolas-boisseau/PaperPi.git"
 #PP_GITREPO="git@github.com:txoof/PaperPi.git"
 #PP_GITBRANCH="manage_modules"
-PP_GITBRANCH="main"
+PP_GITBRANCH="dev_nico"
 
 long_bit=$(getconf LONG_BIT)
 
